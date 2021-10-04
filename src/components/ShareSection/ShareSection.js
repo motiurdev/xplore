@@ -5,7 +5,7 @@ import shareImg from '../../image/sharesection.jpg'
 
 const ShareSection = () => {
     return (
-        <Container className="py-5 mt-5">
+        <Container className="py-5 mt-5 mb-5">
             {/* share section */}
             <Row className="align-items-md-center">
                 <Col>
