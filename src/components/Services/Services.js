@@ -15,7 +15,10 @@ const Services = () => {
                 <h1 className="text-center py-2 mt-4 header-title pb-4">Our Courses</h1>
                 <div className="row row-cols-1 row-cols-md-4 g-4 py-4">
                     {
-                        services.map(service => <Service service={service}></Service>)
+                        services.map(service => <Service
+                            key={service.id}
+                            service={service}
+                        ></Service>)
                     }
                 </div>
             </div>

@@ -12,27 +12,27 @@ const Footer = () => {
                     </div>
                     <div className="col-4">
                         <h4 className="mb-4">Contact</h4>
-                        <p>928 Beechwood Ave.
+                        <p><i className="fas fa-location-arrow"></i> 928 Beechwood Ave.
                             Bronx, NY 10467</p>
-                        <p>Phone: (555) 555-1234</p>
-                        <p>Email: info@xplore.com</p>
+                        <p><i className="fas fa-phone-alt"></i> Phone: (555) 555-1234</p>
+                        <p><i className="far fa-envelope"></i> Email: info@xplore.com</p>
                     </div>
                     <div className="col-3">
                         <h4 className="mb-4">Follow</h4>
                         <ul className="social-link">
                             <li>
                                 <a href="https://www.facebook.com/">
-                                    <i class="fab fa-facebook-f fa-2x"></i>
+                                    <i className="fab fa-facebook-f fa-2x"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.facebook.com/">
-                                    <i class="fab fa-linkedin-in fa-2x"></i>
+                                <a href="https://www.linkedin.com/">
+                                    <i className="fab fa-linkedin-in fa-2x"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.facebook.com/">
-                                    <i class="fab fa-instagram fa-2x"></i>
+                                <a href="https://www.instagram.com/">
+                                    <i className="fab fa-instagram fa-2x"></i>
                                 </a>
                             </li>
                         </ul>

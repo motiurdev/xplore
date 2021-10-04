@@ -18,7 +18,10 @@ const HomeServices = () => {
                 <h1 className="text-center py-2 mt-4 header-title">Our Courses</h1>
                 <div className="row row-cols-1 row-cols-md-4 g-4 py-4">
                     {
-                        homeServices.map(homeService => <HomeService homeservice={homeService}></HomeService>)
+                        homeServices.map(homeService => <HomeService
+                            key={homeService.id}
+                            homeservice={homeService}
+                        ></HomeService>)
                     }
                 </div>
             </div>

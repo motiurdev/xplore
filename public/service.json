@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "image": "https://img-c.udemycdn.com/course/240x135/756150_c033_2.jpg",
         "title": "Angular - The Complete Guide (2021 Edition)",
         "author": "Maximilian Schwarzmüller",
@@ -8,6 +9,7 @@
         "price": "13.99"
     },
     {
+        "id": 2,
         "image": "https://img-c.udemycdn.com/course/240x135/764164_de03_2.jpg",
         "title": "The Complete Web Developer Course 2.0",
         "author": "Rob Percival",
@@ -16,6 +18,7 @@
         "price": "18.99"
     },
     {
+        "id": 3,
         "image": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
         "title": "The Complete JavaScript Course 2021",
         "author": "Jonas Schmedtmann",
@@ -24,6 +27,7 @@
         "price": "16.99"
     },
     {
+        "id": 4,
         "image": "https://img-c.udemycdn.com/course/240x135/995016_ebf4_3.jpg",
         "title": "Vue - The Complete Guide (w/ Router, Vuex)",
         "author": "Maximilian Schwarzmüller",
@@ -32,6 +36,7 @@
         "price": "14.99"
     },
     {
+        "id": 5,
         "image": "https://img-c.udemycdn.com/course/240x135/1463348_52a4_2.jpg",
         "title": "Modern JavaScript From The Beginning",
         "author": "Brad Traversy",
@@ -40,6 +45,7 @@
         "price": "15.99"
     },
     {
+        "id": 6,
         "image": "https://img-c.udemycdn.com/course/240x135/1313502_b57f_2.jpg",
         "title": "Bootstrap 4 From Scratch With 5 Projects",
         "author": "Brad Traversy",
@@ -48,6 +54,7 @@
         "price": "14.99"
     },
     {
+        "id": 7,
         "image": "https://img-c.udemycdn.com/course/240x135/1646980_23f7_2.jpg",
         "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
         "author": "Brad Traversy",
@@ -56,6 +63,7 @@
         "price": "13.99"
     },
     {
+        "id": 8,
         "image": "https://img-c.udemycdn.com/course/240x135/2395488_bd78_2.jpg",
         "title": "React Front To Back",
         "author": "Brad Traversy",
