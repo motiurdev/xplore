@@ -38,6 +38,7 @@ const Footer = () => {
                         </ul>
                     </div>
                 </div>
+                <p className="text-center pt-5">Copyright &copy; 2021 by Xplore</p>
             </div>
         </div>
     );
