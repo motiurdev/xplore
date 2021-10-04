@@ -5,6 +5,7 @@ import { NavLink } from 'react-router-dom';
 const Contact = () => {
     return (
         <div className="container pb-2">
+            {/* contact section */}
             <h1 className="text-center py-2 mt-5 header-title pb-4">Contact</h1>
             <div className="w-50 mx-auto mb-5">
                 <Form>

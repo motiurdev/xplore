@@ -4,6 +4,7 @@ import Service from '../Service/Service';
 const Services = () => {
     const [services, setServices] = useState([])
 
+    // get data
     useEffect(() => {
         fetch('./service.json')
             .then(res => res.json())

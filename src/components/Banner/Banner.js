@@ -11,6 +11,7 @@ const Banner = () => {
                 <div className="banner">
                     <Row className="align-items-md-center banner-content">
                         <Col md={7}>
+                            {/* banner title */}
                             <h1 className="mb-4 fw-bold display-5" style={{ color: "#6c63ff" }}>The latest digital skills, within reach.</h1>
                             <p className="fs-5 text-white py-3">Discover the fastest, most effective way to gain job-ready expertise for the careers of the future.</p>
                             <NavLink to="/about" className="custom-button">About Us</NavLink>

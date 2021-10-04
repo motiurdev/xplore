@@ -7,6 +7,7 @@ import './HomeServices.css'
 const HomeServices = () => {
     const [homeServices, setHomeServices] = useState([])
 
+    // get data
     useEffect(() => {
         fetch('/homeservice.json')
             .then(res => res.json())
