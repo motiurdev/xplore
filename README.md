@@ -10,8 +10,8 @@ Link: https://xplore-motiurdev.netlify.app/
   
 ## Acknowledgements
 
-- ### What you can do this using this project ?
-You will be able to see which actors you will select for your next movie and how much they will cost.
+- ### What you can do using this project ?
+Users can purchase courses from here and submit from.
 - ### What am I using to accomplish this project?
 
 ```javascript
