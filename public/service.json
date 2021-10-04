@@ -70,5 +70,14 @@
         "rating": 4.7,
         "review": "7,993",
         "price": "13.99"
+    },
+    {
+        "id": 9,
+        "image": "https://img-c.udemycdn.com/course/240x135/947098_02ec_2.jpg",
+        "title": "Understanding TypeScript - 2021 Edition",
+        "author": "Maximilian Schwarzmüller",
+        "rating": 4.7,
+        "review": "24,879",
+        "price": "13.99"
     }
 ]
