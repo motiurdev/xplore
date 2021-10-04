@@ -1,0 +1,8 @@
+.social-link {
+    display: flex;
+    list-style-type: none;
+}
+
+.social-link li {
+    padding: 10px;
+}

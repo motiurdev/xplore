@@ -1,0 +1,34 @@
+[
+    {
+        "image": "https://img-c.udemycdn.com/course/240x135/1463348_52a4_2.jpg",
+        "title": "Modern JavaScript From The Beginning",
+        "author": "Brad Traversy",
+        "rating": 4.7,
+        "review": "26,678",
+        "price": "15.99"
+    },
+    {
+        "image": "https://img-c.udemycdn.com/course/240x135/1313502_b57f_2.jpg",
+        "title": "Bootstrap 4 From Scratch With 5 Projects",
+        "author": "Brad Traversy",
+        "rating": 4.6,
+        "review": "14,941",
+        "price": "14.99"
+    },
+    {
+        "image": "https://img-c.udemycdn.com/course/240x135/1646980_23f7_2.jpg",
+        "title": "MERN Stack Front To Back: Full Stack React",
+        "author": "Brad Traversy",
+        "rating": 4.6,
+        "review": "13,771",
+        "price": "13.99"
+    },
+    {
+        "image": "https://img-c.udemycdn.com/course/240x135/2395488_bd78_2.jpg",
+        "title": "React Front To Back",
+        "author": "Brad Traversy",
+        "rating": 4.7,
+        "review": "7,993",
+        "price": "13.99"
+    }
+]
