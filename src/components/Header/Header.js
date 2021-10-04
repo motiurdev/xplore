@@ -6,7 +6,7 @@ import './Header.css'
 const Header = () => {
     const navbarStyle = {
         fontWeight: "bold",
-        color: "#0a81fa"
+        color: "rgb(71 162 255)"
     }
     return (
         <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
