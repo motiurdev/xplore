@@ -11,7 +11,7 @@ Link: https://xplore-motiurdev.netlify.app/
 ## Acknowledgements
 
 - ### What you can do using this project ?
-Users can purchase courses from here and submit from.
+Users can purchase courses from here and submit form.
 - ### What am I using to accomplish this project?
 
 ```javascript
