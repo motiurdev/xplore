@@ -6,6 +6,29 @@ body {
 height: 100vh;
 }
 
+.banner-container {
+    background: url('../../image/hero1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .banner-content {
     height: 100%;
+}
+
+.banner-content p {
+    width: 520px;
+}
+
+.custom-button {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px 25px;
+    border: 2px solid #6c63ff;
+    border-radius: 26px;
+}
+
+.custom-button:hover {
+    background: #6c63ff;
 }

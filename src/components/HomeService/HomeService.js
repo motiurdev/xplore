@@ -1,4 +1,6 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
+import './HomeService.css'
 
 const HomeService = (props) => {
     const { title, image, author, rating, review, price } = props.homeservice;
@@ -10,8 +12,8 @@ const HomeService = (props) => {
                     <h5 className="card-title">{title}</h5>
                     <p className="text-muted"><small>By {author}</small></p>
                     <p className="text-muted"> <span style={{ color: "#b4690e" }} className="fw-bold">{rating}</span> ({review})</p>
-                    <h5>Price: ${price}</h5>
-                    <button className="btn btn-info text-white">Buy Now</button>
+                    <h5 className="text-muted">${price}</h5>
+                    <NavLink to="/services" className="text-white course-button">Buy Now</NavLink>
                 </div>
             </div>
         </div>

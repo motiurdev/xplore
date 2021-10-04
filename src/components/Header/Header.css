@@ -1,6 +1,10 @@
+.navbar {
+    height: 80px;
+    background: #001a39;
+}
+
 .logo{
     text-decoration: none;
-    color: #fff;
     padding: 10px;
     font-size: 25px;
     font-weight: bold;

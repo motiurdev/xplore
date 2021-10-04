@@ -1,0 +1,9 @@
+.course-button {
+    text-decoration: none;
+    background: #6c63ff;
+    border: none;
+    padding: 8px 29px;
+    border-radius: 28px;
+    margin-top:10px;
+    display: inline-block;
+}

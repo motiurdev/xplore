@@ -1,8 +1,17 @@
 .social-link {
     display: flex;
     list-style-type: none;
+    padding: 0;
 }
 
 .social-link li {
     padding: 10px;
+}
+
+.social-link li i {
+    color: #bbbbbb;
+}
+
+.footer p {
+    color: #bbbbbb;
 }
