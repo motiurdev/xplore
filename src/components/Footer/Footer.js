@@ -8,7 +8,7 @@ const Footer = () => {
                 <div className="row pt-4">
                     <div className="col-5 pe-5">
                         <h4 className="mb-4">Xplore</h4>
-                        <p className="w-75">At Skillshare, we’ve seen again and again how the seemingly simple act of creating can be a force for growth, change, and discovery in people’s lives.</p>
+                        <p className="w-75">At Xplore, we’ve seen again and again how the seemingly simple act of creating can be a force for growth, change, and discovery in people’s lives.</p>
                     </div>
                     <div className="col-4">
                         <h4 className="mb-4">Contact</h4>
